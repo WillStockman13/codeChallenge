@@ -1,0 +1,13 @@
+body {
+  background: url('http://www.freevectorvip.com/wp-content/uploads/2016/01/Cartoon-furniture-icon-vector.jpg');
+}
+
+.app {
+	background-color: #D3D3D3;
+	border-radius: 10px;
+	text-align: center;
+	margin: 100px auto auto auto;
+	width: 700px;
+	height: 400px;
+	overflow-y: auto;
+}
